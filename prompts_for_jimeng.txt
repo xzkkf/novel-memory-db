@@ -1,0 +1,48 @@
+# 即梦AI图像生成提示词 - 《月光兔传奇》漫剧预告片
+# 画风：日系动漫/二次元，精致细节，高饱和色彩
+# 每个提示词不超过300字符
+
+## 场景1：穿越觉醒
+Anime style, black-haired girl with double bun hairstyle, star-shaped eyes, crazy excited expression, sitting in front of gaming setup, sudden bright white light explosion from screen, consciousness being sucked into void, high-dimensional space with floating particles, dramatic lighting, high saturation colors, cinematic composition
+
+## 场景2：月光兔退化
+Anime style, golden-haired girl with twin buns and star eyes, white thigh-highs, golden glowing panel interface floating, golden drone shrinking into small white fluffy lop-eared rabbit, golden crescent moon pattern on back, sparkles and light particles, cute and epic transformation, high detail, vibrant colors
+
+## 场景3：黄金轮降临
+Anime style, giant 5-meter white moon rabbit with floppy ears, two massive golden circular blade wheels spinning at high speed falling from sky, crashing into ground creating huge crater, golden light explosion, training room with white walls, dynamic action pose, metallic shine on weapons, high contrast lighting
+
+## 场景4：雷电气场
+Anime style, giant moon rabbit standing in dark forest, facing massive high-tier beast surrounded by purple lightning energy, lightning spreading and turning trees to charcoal, tense atmosphere, electric blue and purple glow, dramatic shadows, battle-ready stance, high saturation
+
+## 场景5：星沙觉醒
+Anime style, golden egg shell cracking open in sandstorm valley, blinding golden light rays bursting out, golden elemental humanoid figure emerging from egg, cosmic nebula patterns on shell surface, particles and light beams shooting skyward, epic birth scene, warm golden color palette
+
+## 场景6：异变月光兔
+Anime style, white clouds parting dramatically, bizarre mutated rabbit form walking out of mist, girl with golden twin buns sitting casually on rabbit shoulder, crossing legs, mysterious fog swirling around, glowing green jade layered ears, snow-white cape flowing, ominous and majestic aura
+
+## 场景7：抱月玉槌秒杀
+Anime style, medium-sized moon rabbit holding giant crimson sun wheel with one ear, blocking giant black python's fangs effortlessly, desert sandstorm background, heat waves distorting air, rabbit's calm expression vs python's rage, dynamic combat pose, red and gold color scheme
+
+## 场景8：契约星沙
+Anime style, golden-haired girl reaching out hand toward glowing golden elemental figure, contract magic circle appearing between them, golden light pillars shooting to sky, floating text interface appearing, sand and wind swirling around, emotional moment, warm golden lighting
+
+## 场景9：红狱宫主炸裂
+Anime style, two massive spiral crimson sun wheels spinning around girl, red lightning crackling along coastal battlefield, wheels shooting forward like lightning bolts tearing through everything, explosion and debris flying, dramatic red glow illuminating entire scene, high speed action
+
+## 场景10：闪光进化
+Anime style, moon rabbit surrounded by blinding white and gold light, evolving into perfect ultimate form, white jade appearance with flowing energy, celestial light beams descending, evolution particles and sparkles everywhere, transcendent and divine atmosphere, pure white and gold palette
+
+## 场景11：银翼次元
+Anime style, silver-haired girl with spread wings made of silver light, launching massive slash attack, one-kilometer fan-shaped canyon being sliced in half, shockwave and debris, blue and silver energy trails, epic scale destruction, dynamic camera angle from above
+
+## 场景12：联赛一击
+Anime style, moon rabbit throwing giant boulder in cherry blossom lake battlefield, boulder exploding into red dust like fireworks, ten-meter diameter rock shattering mid-air, pink cherry blossoms mixing with red dust, spectators watching in shock, dynamic action freeze frame
+
+## 场景13：星沙登场
+Anime style, golden elemental humanoid figure floating in sky above city, golden light illuminating entire White Moon State, crowd looking up in awe, majestic and divine presence, golden particles falling like snow, epic scale city view, warm golden hour lighting
+
+## 场景14：雾驹契约
+Anime style, spherical fluid cloud creature with flame aura floating before girl, fire energy swirling around ball-shaped cloud, mountain top setting with wind blowing, mysterious and ethereal atmosphere, orange and blue flame colors contrasting, magical contract moment
+
+## 场景15：双顶点联手
+Anime style, two moon rabbits standing side by side - one ancient form with dark aura, one flash form with white glow, combining powers creating massive energy explosion, apocalyptic battlefield background, dual color scheme of black/red vs white/gold, ultimate team-up pose
